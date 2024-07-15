@@ -1,2 +1,4 @@
 Ceye, 0998755, ceye@gmail.com
-Joko, 0876544, joko@gmail.com
+Santi, 123456, santi@gmail.com
+Sera, 0876542223, sera@apps.ipb.ac.id
+Nana, 8568345, nana@gmail.com
